@@ -1,6 +1,6 @@
 # Veritaset
 
-Verified, machine-readable consumer prices for AI agents. Mobile phone plans in 32 European markets and the US (preview), plus home internet offers in seven markets (preview). Every price links to the operator's own page and the date it was checked, and rankings follow a public, versioned method: https://veritaset.com/method/
+Verified, machine-readable consumer prices for AI agents. Mobile phone plans in 32 European markets and the US (preview), plus home internet offers in 16 markets (preview). Every price links to the operator's own page and the date it was checked, and rankings follow a public, versioned method: https://veritaset.com/method/
 
 No operator pays for placement. Veritaset has no affiliate links and no commercial relationship with any operator.
 
