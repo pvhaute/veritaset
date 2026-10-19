@@ -4,6 +4,8 @@ Verified, machine-readable consumer prices for AI agents. Mobile phone plans in 
 
 No operator pays for placement. Veritaset has no affiliate links and no commercial relationship with any operator.
 
+Where an operator publishes a promo code for an offer, the plan record includes the code with its conditions, source link and check date, so a promo price is never quoted without what it takes to get it. These are operator-published codes only; there are no partner or affiliate codes.
+
 ## Connect
 
 MCP server: `https://veritaset.com/mcp` (streamable HTTP, no account or key needed)
