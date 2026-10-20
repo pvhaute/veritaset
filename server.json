@@ -2,13 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.veritaset/mcp",
   "title": "Veritaset",
-  "description": "Verified, sourced mobile plan prices in 32 European markets and the US, ranked by public rules.",
+  "description": "Mobile, home internet and energy prices in 34 countries, read on operators' pages and dated.",
   "websiteUrl": "https://veritaset.com/agents/",
   "repository": {
-    "url": "https://github.com/Veritaset-tech/veritaset",
+    "url": "https://github.com/pvhaute/veritaset",
     "source": "github"
   },
-  "version": "0.5.0",
+  "version": "0.6.1",
   "remotes": [
     {
       "type": "streamable-http",
@@ -19,6 +19,13 @@
     {
       "src": "https://veritaset.com/favicon.svg",
       "mimeType": "image/svg+xml"
+    },
+    {
+      "src": "https://veritaset.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
     }
   ]
 }
